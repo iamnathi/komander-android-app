@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Komander</string>
+
+    <string name="description_welcome">Welcome</string>
+    <string name="description_sign_in">Sign In</string>
+
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+
+    <string name="hint_login">Login</string>
+
+
+</resources>
