@@ -9,15 +9,16 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".LoginActivity"
+        <activity android:name=".TemperatureActivity"></activity>
+        <activity
+            android:name=".LoginActivity"
             android:configChanges="orientation"
-            android:screenOrientation="landscape"></activity>
+            android:screenOrientation="landscape" />
         <activity
             android:name=".WelcomeActivity"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
             android:configChanges="orientation"
             android:screenOrientation="landscape"
-            >
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

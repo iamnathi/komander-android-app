@@ -9,5 +9,8 @@
 
     <string name="hint_login">Login</string>
 
+    <string name="hint_temperature_scanner_version">Version of the temperature biometric scanner.</string>
+    <string name="scan_temperature">Scan Temperature</string>
+
 
 </resources>
